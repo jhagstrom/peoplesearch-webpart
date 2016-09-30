@@ -14,6 +14,6 @@ export class Utils {
 
   public static getInitialsFromFullName(fullName: string): string {
     var names = fullName.split(' ');
-    return names[0].substring(0,1)+names[1].substring(0,1)
+    return names[0].substr(0,1)+names[1].substr(0,1)
   }
 }
