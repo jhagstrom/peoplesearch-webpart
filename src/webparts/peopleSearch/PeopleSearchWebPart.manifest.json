@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "2a551317-6860-4c5d-8f43-b58139127e50",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "2a551317-6860-4c5d-8f43-b58139127e50",
+    "group": { "default": "Under Development" },
+    "title": { "default": "PeopleSearch" },
+    "description": { "default": "Search for people (in the local people result source)" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "PeopleSearch"
+    }
+  }]
+}

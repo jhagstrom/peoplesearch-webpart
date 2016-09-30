@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "peoplesearch-webpart-client-side-solution",
+    "id": "aebaa490-4c72-4434-8c72-8e1797e3e553",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/peoplesearch-webpart.spapp"
+  }
+}
